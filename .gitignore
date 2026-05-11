@@ -1,0 +1,9 @@
+archive/
+venv/
+__pycache__/
+
+pareto_3d.html
+pareto_3d.png
+render_pareto_3d.html
+
+results/
